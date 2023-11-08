@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Votifier:jar">
+    <output-path>$USER_HOME$/Documents/Votifier/plugins</output-path>
+    <root id="archive" name="Votifier.jar">
+      <element id="module-output" name="Votifier" />
+      <element id="extracted-dir" path="$USER_HOME$/Documents/1.20/plugins/nuvotifier.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

@@ -1,0 +1,5 @@
+name: VotifierTest
+depend: [Votifier]
+version: '${project.version}'
+main: com.patulacci.votifier.Votifier
+api-version: '1.20'
